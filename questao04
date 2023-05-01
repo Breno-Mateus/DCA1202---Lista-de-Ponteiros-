@@ -1,0 +1,13 @@
+ a) 20. Pois, apesar de ter sido atribuído um ponteiro para a variável “valor”, o seu valor não irá ser modificado; 
+ b)29.0. O valor da variável “temp” foi modificado de 26.5 para 29.0 pela atribuição “ *p2 = 29.0”; 
+ c)P. Pois, a variável “aux” recebe o valor do ponteiro “p3”, que aponta para a posição inicial do array “nome”; 
+ d)e. O mesmo raciocínio da questão anterior; 
+ e)P, pois ele armazena apenas o primeiro caracteres da char; 
+ f) e. O valor a ser atribuído será o do array com posição 4; 
+ g)t. O valor a ser atribuído será decrementado em 1, ou seja, o valor do array com posição 3; 
+ h) 31, pois armazena o primeiro valor do vetor; 
+ i)45. A operação é feita com relação à posição do array e não com o seu valor; 
+ j)27. Mesmo raciocínio da questão anterior; 
+ l)31. Mesmo raciocínio da questão i); 
+ m) 45. O ponteiro irá apontar para o array de posição (2-1); 
+ n)27. A posição do array, para qual o ponteiro aponta, será incrementada em 1.

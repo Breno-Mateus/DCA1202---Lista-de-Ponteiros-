@@ -1,0 +1,8 @@
+aloha[2] = value;
+scanf("%f", &aloha);
+aloha = value; /*Não é possivel, pois "aloha" é um array e precisa especificar a posição na qual o valor deve ser atribuido.*/
+printf("%f", aloha);
+coisas[4][4] = aloha[3];
+coisas[5] = aloha; /*Não é possivel, pois "aloha" é um array e precisa especificar a posição na qual o valor deve ser atribuido.*/
+pf = value; /*Não é possivel, pois a variável "pf" é um ponteiro e atribuição de uma valor para ponteiro deve ser feita com um asterisco antes do nome do ponteiro.*/
+pf = aloha;

@@ -1,0 +1,4 @@
+◦ x for declarado como char? R= Para (x+1) o valor será 4093; Para (x+2) o valor será 4094; Para (x+3) o valor será 4095.
+◦ x for declarado como int? R= Para (x+1) o valor será 4094; Para (x+2) o valor será 4096; Para (x+3) o valor será 4098.
+◦ x for declarado como float? R= Para (x+1) o valor será 4096; Para (x+2) o valor será 4100; Para (x+3) o valor será 4104.
+◦ x for declarado como double? R= Para (x+1) o valor será 4100; Para (x+2) o valor será 4108; Para (x+3) o valor será 4116.

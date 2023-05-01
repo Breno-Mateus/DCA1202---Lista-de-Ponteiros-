@@ -1,0 +1,1 @@
+A saída obtida para os valores do endereço de memória das variáveis com os tipos primitivos distintos coincide com aquilo que se era esperado. O que difere da questão anterior é o fato de que as variáveis do tipo int ocupa 4 byte na memória. Como nesse exemplo de saída com array do tipo int: “53f03170 [0], 53f03174 [1], 53f03178 [2], 53f0317c [3]“.

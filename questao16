@@ -1,0 +1,1 @@
+Foi utilizado a função clock(), da biblioteca time.h. Os tempos de execução dos problemas 14 e 15 foram respectivamente 397.000000s e 440.000000s. Concluindo que a questão na qual não foi utilizado o ponteiro para função foi a que teve o menor tempo de execução.

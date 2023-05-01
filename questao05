@@ -1,0 +1,1 @@
+Espera-se que inicialmente mostre o valor do contador, logo em seguida os valores do vetor "vet" na posição do contador e também do ponteiro f. Os valores serão o mesmo em cada interação, pois o ponteiro f aponta para o vetor "vet". Por último, será mostrado o endereço de memória das variáveis.

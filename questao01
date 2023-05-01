@@ -1,0 +1,4 @@
+p == &i; A expressão apresenta valor verdadeiro!;
+*p - *q; O resultado da expressão será -2;
+**&p; O resultado da expressão será 3;
+3 - *p/(*q) + 7; O resultado da expressão é 10.
